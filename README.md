@@ -11,4 +11,4 @@ With the current rise in popularity of cryptocurrencies, the aim of our project 
 
 ## Acknowledgments
 
-* **Sarit Maitra** - (https://towardsdatascience.com/@sarit.maitra)
+* **Sarit Maitra** - https://towardsdatascience.com/@sarit.maitra
